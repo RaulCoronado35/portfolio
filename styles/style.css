@@ -122,6 +122,8 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 6%;
+        font-size: 1.25vw;
     }
     
     .apresentacao {
